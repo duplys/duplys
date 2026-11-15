@@ -1,4 +1,5 @@
 Hey there, I'm Paul 👋
+
 I work at the intersection of **AI, cybersecurity, and software engineering**, combining research and technical leadership with hands-on development.
 
 I'm a **Principal Engineer for Artificial Intelligence at Bosch Mobility** and a **software engineering lecturer at DHBW Stuttgart**. Previously, I worked in cybersecurity research and leadership at Bosch Research. I hold a PhD in Computer Science from the University of Tuebingen.
